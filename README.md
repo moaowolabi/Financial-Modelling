@@ -1,2 +1,2 @@
 # Financial-Modelling
-Examples of the computtainal methods i've used to create different financial modules and simulations
+Examples of the computational methods I've used to create different financial modules and simulations
