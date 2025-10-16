@@ -1,2 +1,3 @@
 # Financial-Modelling
 Examples of the computational methods I've used to create different financial modules and simulations
+In one of the files created i used VBA and solver to cumpute Global Minimum Variance Portfolio, Optimal Risky Portfolio and Optimal Complete Portfolio for Visa, Berkshire Hathaway and Nvidia stocks in one Portfolio to fully optimise it with the right weighting for each stock. In this file i computed the follow for each stock: Returns, Volatility, CAGR, Annualized Volatility (VBA Implementation for CAGR & Annualized Volatility), Covariance Matrix, GMVP, (using a T-Bill as the Risk-Free Rate) ORP, OCP and Portfolio Allocation.
